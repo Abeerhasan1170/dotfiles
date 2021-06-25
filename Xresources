@@ -1,0 +1,39 @@
+*.alpha:1.0
+*.font:SF Mono:size=9.5
+
+*.foreground:   #ecf0f1
+*.background:   #1e1e1e
+*.cursorColor:  #c9cccd
+
+! black
+*.color0:       #1e1e1e
+*.color8:       #34495e
+
+! red
+*.color1:       #d75f5f
+*.color9:       #e74c3c
+
+! green
+*.color2:       #27ae60
+*.color10:      #54b775
+
+! yellow
+*.color3:       #d7d787
+*.color11:      #f1c40f
+
+! blue
+*.color4:       #2479d0
+*.color12:      #3498db
+
+! magenta
+*.color5:       #8700af
+*.color13:      #9b59b6
+
+! cyan
+*.color6:       #afd7d7
+*.color14:      #d7ffff
+
+! white
+*.color7:       #c9cccd
+*.color15:      #ecf0f1
+
